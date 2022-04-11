@@ -3,6 +3,7 @@ Baseado no https://www.section.io/engineering-education/registration-form-react.
 ## Instalação: 
 Primeiro passo, utilize o comando npx create-react-app . dentro do diretório que está o app
 ![image](https://user-images.githubusercontent.com/79091246/162738134-92bb3e36-8f26-4c31-b6fa-2b84627f90de.png)
+<br> Dentro do diretório src/components adicione o header,index,registrationForm e style.
  <br> Após, dé um npm start.
 <br> Se tudo estiver correto, irá abrir algo do tipo: 
 <br> ![image](https://user-images.githubusercontent.com/79091246/162738778-fc2fd0db-fd82-4ccc-9c13-442c83efd7e3.png)
