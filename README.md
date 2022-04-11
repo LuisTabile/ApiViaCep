@@ -14,6 +14,6 @@ Primeiro passo, utilize o comando npx create-react-app . dentro do diretório qu
 <br> Após isso, a cada execução do app, ele irá guardar os dados 
 <br>![image](https://user-images.githubusercontent.com/79091246/162739319-13198dfb-d36f-40cc-80e9-e8288971314c.png)
 
-##Api
+## Api
 Ao enviar o Cep, configurei o código para que, com a API Fetch eu possa fazer requisições HTTP (usando GET,POST, e outros métodos)
 <br>![image](https://user-images.githubusercontent.com/79091246/162739826-f50b3ba1-9231-4d0b-8ca0-58d4d5927a00.png)
